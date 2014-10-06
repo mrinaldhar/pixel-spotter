@@ -1,0 +1,1 @@
+# PixelSpotter : A simple game implemented using Javascript and Canvas (HTML5)
